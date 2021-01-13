@@ -11,7 +11,10 @@ Although I haven't deployed it live, you can check it out by downloading it. An 
 I have attached some photos from the Interactive Media Showcase 2019 in which I demonstrated my creation.
 
 This is what the loading screen looks like:
-![](game.jpg)
+<img src="game.jpg" width=500>
 
-This is ther character selection screen.
-![](game2.jpg)
+This is the character selection screen:
+<img src="game2.jpg" width=500>
+
+This is a short video of people playing:
+<img src="gameplay.gif" width=500>
